@@ -9,7 +9,7 @@ over-promising on delivery dates is driving customer dissatisfaction.
 ## B. Project Links
 - **Notebook:** https://colab.research.google.com/drive/1ows_OfVu5l4dB5ifvHNYoylkom6zoj23?usp=sharing
 - **Dashboard:** https://datastudio.google.com/reporting/47032c53-1782-4edb-b18c-5b76d74e1554
-- **Presentation:** ./Amalitech Bobs Presentation.pdf
+- **Presentation:** [/Amalitech Bobs Presentation.pdf](https://github.com/bob-aila/Amalitech-Project-BOB/blob/main/Amalitech%20Bobs%20presentation.pdf)
 
 ## C. Technical Explanation
 **Data Cleaning:** Deduplicated reviews (kept latest per order), separated 
