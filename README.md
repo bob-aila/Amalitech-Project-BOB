@@ -1,7 +1,6 @@
 ## A. Executive Summary
 Veridi Logistics delivers ~99,441 orders across Brazil. Our audit found that 
-8.1% of delivered orders arrive later than the estimated date, with remote 
-northern states (AM, RR, AP) experiencing late rates exceeding 20%. Late 
+8.1% of delivered orders arrive later than the estimated date, with Cross states (AL, MA, PI) experiencing late rates exceeding 20%. Late 
 deliveries directly correlate with poor reviews — on-time orders average 4.38/5 
 while super-late orders average 2.04/5, confirming the CEO's hypothesis that 
 over-promising on delivery dates is driving customer dissatisfaction.
